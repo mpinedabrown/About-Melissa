@@ -1,0 +1,23 @@
+
+body {
+    background-color: #DFC5FE;
+}
+
+h1 {
+    font-family: "Copperplate", serif;
+    background-color: indigo;
+    color: lavenderblush;
+}
+
+p {
+    font-family: "Optima", sans-serif;
+    color: indigo;
+    background-color: lavenderblush;
+}
+
+body {
+    background-color: #DFC5FE;
+    opacity: 1;
+    background-image: radial-gradient(lavenderblush 7px, #DFC5FE 7px);
+    background-size: 30px 30px;
+}
